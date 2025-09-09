@@ -5,4 +5,5 @@ Developed an application using a modular microservice architecture deployed with
 * Jan Walczak, BEng, Warsaw University of Technology
 * Aleksandra Sitarczyk, BEng, Warsaw University of Technology
 * Mikołaj Siedlecki, BEng, Warsaw University of Technology
+* Patryk Jankowicz, BEng, Warsaw University of Technology
 
